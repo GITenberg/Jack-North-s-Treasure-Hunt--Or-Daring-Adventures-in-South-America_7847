@@ -1,0 +1,24 @@
+_repo: Jack-North-s-Treasure-Hunt--Or-Daring-Adventures-in-South-America_7847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
+description: ''
+gutenberg_bookshelf: South America
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'South America -- Juvenile fiction'
+- GITenberg
+title: Jack North's Treasure Hunt; Or, Daring Adventures in South America
+url: http://www.gutenberg.org/ebooks/7847
